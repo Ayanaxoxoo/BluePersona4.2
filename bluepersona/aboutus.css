@@ -1,0 +1,17 @@
+.colos{
+    width: 48%;
+    float: left; 
+    margin-top: 10%;
+    display:inline-block; text-align:center;
+    margin-right: 2%
+}
+
+.heading{
+    background-color: #677dad;
+    padding: 2%;
+    
+}
+
+.text{
+    font-size: 22px;
+}
